@@ -1,0 +1,12 @@
+/.env
+/.vscode
+# /config/*
+/data/*
+/logs/*
+# /www/**
+.DS_Store
+/Readme.md
+/sample.env
+/todo.md
+/bin
+/LICENSE
